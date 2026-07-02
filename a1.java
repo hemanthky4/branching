@@ -1,2 +1,1 @@
-created a1.java
-created a1.java
+system.out.println("hello world")
